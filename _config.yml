@@ -9,12 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Guilherme Mataveli"
+title                    : "Guilherme's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://guilhermemataveli.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,12 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_guilherme.png"
   name             : "Guilherme Mataveli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Remote Sensing |
+		      Data Science |
+		      Biomass Burning |
+		      Wildfires |
+		      Land Cover Change |
+		      Amazon	"
   location         : "Brazil"
-  employer         : "National Institute for Space Research (INPE)"
+  employer         : "INPE"
   uri              : # URL
   email            : "guilherme.mataveli@inpe.br" 
 
@@ -68,7 +72,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/guilherme-mataveli-84ba5271/"
-  mastodon         : # URL
+  lattes           : "http://lattes.cnpq.br/4375690234648247"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username

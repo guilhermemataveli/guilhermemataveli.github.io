@@ -10,24 +10,25 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+    
+  - title: "Funding"
+    url: /funding/
+    
+  - title: "Supervisions"
+    url: /supervisions/  
+    
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Service"
+    url: /service/   
+       
+  - title: "Datasets"
+    url: /datasets/  
+         
+  - title: "Awards"
+    url: /awards/   
     
-  - title: "CV"
-    url: /cv/
+  - title: "Media"
+    url: /media/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
