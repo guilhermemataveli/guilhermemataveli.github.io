@@ -14,7 +14,7 @@ A complete list of media records is available in [here](https://bv.fapesp.br/en/
    *Year:* 2025  
    
    
--  **Brazil must reinforce protection of forests to meet climate change mitigation goals, study warns**[Link](https://agencia.fapesp.br/brazil-must-reinforce-protection-of-forests-to-meet-climate-change-mitigation-goals-study-warns/52838)  
+-  **Brazil must reinforce protection of forests to meet climate change mitigation goals, study warns** [Link](https://agencia.fapesp.br/brazil-must-reinforce-protection-of-forests-to-meet-climate-change-mitigation-goals-study-warns/52838)  
    *Publisher:* Agência FAPESP  
    *Year:* 2025  
      
