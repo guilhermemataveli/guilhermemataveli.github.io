@@ -14,7 +14,22 @@ author_profile: true
   *Period:* 2025 – Present
 
 
+## Teaching
 
+
+-  **SER-459-3- Advanced Topics in Forests**  
+   *Institution:* INPE  
+   *Postgraduate Program:* Remote Sensing  
+   *Year:* 2021 - Present
+   
+   
+-  **Remote Sensing and Digital Image Processing Applied to Landscape Studies**  
+   *Institution:* UFSJ  
+   *Postgraduate Program:* Geography  
+   *Year:* 2022 
+ 
+  
+  
 ## Selected Peer-Review Contributions
 
 

@@ -16,10 +16,7 @@ main:
     
   - title: "Supervisions"
     url: /supervisions/  
-    
-  - title: "Teaching"
-    url: /teaching/
-    
+       
   - title: "Service"
     url: /service/   
        
@@ -28,6 +25,9 @@ main:
          
   - title: "Awards"
     url: /awards/   
+    
+  - title: "Opportunities"
+    url: /opportunities/
     
   - title: "Media"
     url: /media/
