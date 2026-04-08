@@ -5,9 +5,8 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-## 📢 Bolsa Pós-Doutorado FAPESP – Projeto SAMBBI
+## 📢 FAPESP Postdoctoral Fellowship – SAMBBI Project 
 
-**FAPESP Postdoctoral Fellowship – SAMBBI Project**
 Uma oportunidade para pesquisadores interessados em modelagem atmosférica e qualidade do ar na Amazônia e São Paulo. / An opportunity for researchers interested in atmospheric modeling and air quality in the Amazon and São Paulo.  
 
 📍 *Location*: 
@@ -53,7 +52,7 @@ The postdoctoral fellow will work on quantifying the impacts of Amazon biomass b
 📩 *Applications*: Interested candidates should send a **CV**, **motivation letter**, and **two letters of recommendation** to **guilherme.mataveli@inpe.br** with the subject: FAPESP Postdoctoral Fellowship – SAMBBI   
 
 
-📄 *Full Description (PDF)*: [Download PDF] (https://guilhermemataveli.github.io/files/opportunities/Vaga_PD_SAMBBI.pdf)  
+📄 *Full Description (PDF)*: [Download do PDF](https://guilhermemataveli.github.io/files/opportunities/Vaga_PD_SAMBBI.pdf)  
 
 💬 *Inquiries*: **guilherme.mataveli@inpe.br**  
 
