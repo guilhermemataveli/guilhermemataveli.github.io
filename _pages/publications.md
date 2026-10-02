@@ -15,18 +15,18 @@ Full publication record is available at [Zotero](https://www.zotero.org/gmatavel
 
 ## 📚 Recent Publications
 
-1. **State of Wildfires 2024–2025** [Link](https://essd.copernicus.org/articles/17/5377/2025/)  
-   *Earth System Science Data*, 2025  
-   Authors: Douglas I. Kelley; Chantelle Burton; Francesca Di Giuseppe; Matthew W. Jones; Maria L. F. Barbosa; Esther Brambleby; Joe R. McNorton; Zhongwei Liu; Anna S. I. Bradley; Katie Blackford; Eleanor Burke; Andrew Ciavarella Enza Di Tomaso; Jonathan Eden; Igor José M. Ferreira; Lukas Fiedler; Andrew J. Hartley; Theodore R. Keeping; Seppe Lampe; Anna Lombardi; **Guilherme Mataveli**; et al.; Crystal A. Kolden.  
+1. **Spiralling frontier threats in Indigenous Amazonia** [Link](https://www.nature.com/articles/s41893-026-01874-z)  
+   *Nature Sustainability*, 2026  
+   Authors: Gabriel de Oliveira; Erin Koster; Beto Marubo; Livia Laureto; Carlos Nobre; Beatriz Funatsu; Rachel Geber-Corrêa; Cléo Quaresma; Deborah Pugley; Zoe Pierrat, Marco Heredia-R; Douglas Morton; Amanda Hoffman-Hall; Lucas Maure; Qianlai Zhuang; Torsten Krause; Taciana Coutinho; **Guilherme Mataveli**; et al., Paulo Artaxo.  
    
-2. **Forest Degradation Is Undermining Progress on Deforestation in the Amazon** [Link](https://doi.org/10.1111/gcb.70209)  
-   *Global Change Biology*, 2025  
-   Authors: **Guilherme Mataveli**; Lucas Andrigo Maure; Alber Sanche; Débora Joana Dutra; Gabriel de Oliveira; Matthew W. Jones; Cibele Amaral; Paulo Artaxo; Luiz E. O. C. Aragão.  
+2. **Human ignitions dominate the fire regimes of the Brazilian Cerrado** [Link](https://www.nature.com/articles/s43247-026-03633-6)  
+   *Communications Earth & Environment*, 2026  
+   Authors: Carlota Segura-Garcia; Thomas Janssen; Renata Libonati; Lucas Menezes; **Guilherme Mataveli**; Sander Veraverbeke; Matthew Jones; Imma Oliveras Menor.  
    
      
-3. **How Do Emission Factors Contribute to the Uncertainty in Biomass Burning Emissions in the Amazon and Cerrado?** [Link](https://www.mdpi.com/2073-4433/16/4/423)  
-   *Atmosphere*, 2025  
-   Authors: **Guilherme Mataveli**; Matthew W. Jones; Gabriel Pereira; Saulo R. Freitas; Valter Oliveira; Bruno Silva Oliveira; Luiz E. O. C. Aragão.    
+3. **Understanding drivers and biases of simulated CO emissions from the INFERNO fire model over South America** [Link](https://bg.copernicus.org/articles/23/1341/2026/)  
+   *Biogeosciences*, 2026  
+   Authors: Maria Velásquez-García; Richard Pope; Steven Turnock; Chetan Deva; David Moore; **Guilherme Mataveli**; Steve Arnold; Ruth Doherty; Martyn Chipperfield.  
 
 
 
